@@ -30,9 +30,9 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'会社の情報'}
-        subtitle={'登録'}
-        ctaText={'shop now'}
+        title={'Sainuu daimaa'}
+        subtitle={'huuhed sainuu andaa'}
+        ctaText={'End dar hugshuun'}
         ctaAction={goToShop}
       />
 
